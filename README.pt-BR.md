@@ -14,12 +14,4 @@ myip é uma aplicação web que exibe o seu endereço IP público e informaçõe
 
 ## Como Usar
 
-1. Abra o arquivo `index.html` em seu navegador web.
-   OU
-2. Se o projeto estiver hospedado, navegue para a URL do projeto.
-
-(Observação: Se houver etapas específicas de compilação ou um servidor de desenvolvimento para executar, atualize esta seção de acordo.)
-
-## Tecnologias Utilizadas
-
-- (Por favor, liste as principais tecnologias, frameworks e bibliotecas utilizadas neste projeto. Ex: HTML, CSS, JavaScript, React, Vue, etc.)
+Acesse a aplicação navegando para: [https://myip.myappstoolbox.com/](https://myip.myappstoolbox.com/)
